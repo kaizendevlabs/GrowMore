@@ -1,0 +1,14 @@
+# XAMPP / local environment
+xampp/
+
+# Environment and secret files
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
